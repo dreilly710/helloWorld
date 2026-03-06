@@ -1,0 +1,42 @@
+/* Page styling */
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+/* Style all paragraphs */
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+/* Style all level 2 headers */
+h2 {
+    color: darkblue;
+    margin-top: 20px;
+}
+
+/* Style table borders */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+/* Special styling for third paragraph */
+p#third-paragraph {
+    background-color: lightgray;
+    font-style: italic;
+}
+
+/* Class styling example */
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+/* Logo image styling */
+img.logo {
+    width: 200px;
+    height: 200px;
+}
